@@ -193,6 +193,12 @@ ALTER TABLE `user`
 ### Step 5: Run ``` travel-agency service```
 ### Step 6 : Run ``` frontend project ```
 
+### Step 7: Run in ``` travelagency``` database 
+
+```
+INSERT INTO `Location` (`id`, `name`) VALUES ('1', 'Dhaka')
+INSERT INTO `Location` (`id`, `name`) VALUES ('2', 'Ctg')
+```
 
 ### ERD diagram of ``` travel-agency-service ```
 
