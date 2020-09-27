@@ -191,7 +191,7 @@ ALTER TABLE `user`
 
 ### Step 4: Run ``` oauth-server ```
 ### Step 5: Run ``` travel-agency service```
-### Step 6 : Run ``` frontend project ````
+### Step 6 : Run ``` frontend project ```
 
 
 ### ERD diagram of ``` travel-agency-service ```
