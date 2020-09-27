@@ -113,6 +113,7 @@ CREATE TABLE `user` (
   `email` varchar(255) DEFAULT NULL,
   `enabled` bit(1) NOT NULL,
   `password` varchar(255) DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
   `username` varchar(255) DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
